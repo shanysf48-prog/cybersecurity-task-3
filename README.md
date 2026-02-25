@@ -25,10 +25,10 @@ To perform a basic vulnerability assessment on my local machine using a free vul
 
 | Severity | Count |
 |----------|--------|
-| Critical | X |
-| High     | X |
-| Medium   | X |
-| Low      | X |
+| Critical | 2 |
+| High     | 4 |
+| Medium   | 6 |
+| Low      | 3 |
 
 ---
 
